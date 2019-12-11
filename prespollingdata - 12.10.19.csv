@@ -1,0 +1,49 @@
+partyname,candidatefirstname,candidatelastname,pollster,polldate,percentofvote
+Democratic,Michael,Bennet,"Quinnipiac University",2019-12-09,1
+Democratic,Joe,Biden,"Quinnipiac University",2019-12-09,29
+Democratic,Bernie,Sanders,"Quinnipiac University",2019-12-09,17
+Democratic,Elizabeth,Warren,"Quinnipiac University",2019-12-09,15
+Democratic,Pete,Buttigieg,"Quinnipiac University",2019-12-09,9
+Democratic,Cory,Booker,"Quinnipiac University",2019-12-09,1
+Democratic,Andrew,Yang,"Quinnipiac University",2019-12-09,4
+Democratic,Amy,Klobuchar,"Quinnipiac University",2019-12-09,3
+Democratic,Tulsi,Gabbard,"Quinnipiac University",2019-12-09,2
+Democratic,Julian,Castro,"Quinnipiac University",2019-12-09,1
+Democratic,Tom,Steyer,"Quinnipiac University",2019-12-09,1
+Democratic,Michael,Bloomberg,"Quinnipiac University",2019-12-09,5
+Democratic,Joe,Biden,"Monmouth University",2019-12-08,26
+Democratic,Bernie,Sanders,"Monmouth University",2019-12-08,21
+Democratic,Elizabeth,Warren,"Monmouth University",2019-12-08,17
+Democratic,Pete,Buttigieg,"Monmouth University",2019-12-08,8
+Democratic,Cory,Booker,"Monmouth University",2019-12-08,2
+Democratic,Andrew,Yang,"Monmouth University",2019-12-08,3
+Democratic,Amy,Klobuchar,"Monmouth University",2019-12-08,4
+Democratic,Tulsi,Gabbard,"Monmouth University",2019-12-08,0
+Democratic,Julian,Castro,"Monmouth University",2019-12-08,1
+Democratic,Tom,Steyer,"Monmouth University",2019-12-08,1
+Democratic,Michael,Bennet,"Monmouth University",2019-12-08,0
+Democratic,Michael,Bloomberg,"Monmouth University",2019-12-08,5
+Democratic,Michael,Bloomberg,"Morning Consult",2019-12-08,6
+Democratic,Michael,Bennet,"Morning Consult",2019-12-08,1
+Democratic,Joe,Biden,"Morning Consult",2019-12-08,30
+Democratic,Bernie,Sanders,"Morning Consult",2019-12-08,22
+Democratic,Elizabeth,Warren,"Morning Consult",2019-12-08,16
+Democratic,Pete,Buttigieg,"Morning Consult",2019-12-08,9
+Democratic,Cory,Booker,"Morning Consult",2019-12-08,3
+Democratic,Andrew,Yang,"Morning Consult",2019-12-08,4
+Democratic,Amy,Klobuchar,"Morning Consult",2019-12-08,2
+Democratic,Tulsi,Gabbard,"Morning Consult",2019-12-08,2
+Democratic,Julian,Castro,"Morning Consult",2019-12-08,1
+Democratic,Tom,Steyer,"Morning Consult",2019-12-08,3
+Democratic,Michael,Bloomberg,Ipsos,2019-12-05,4
+Democratic,Michael,Bennet,Ipsos,2019-12-05,0
+Democratic,Joe,Biden,Ipsos,2019-12-05,19
+Democratic,Bernie,Sanders,Ipsos,2019-12-05,14
+Democratic,Elizabeth,Warren,Ipsos,2019-12-05,9
+Democratic,Pete,Buttigieg,Ipsos,2019-12-05,6
+Democratic,Cory,Booker,Ipsos,2019-12-05,1
+Democratic,Andrew,Yang,Ipsos,2019-12-05,3
+Democratic,Amy,Klobuchar,Ipsos,2019-12-05,1
+Democratic,Tulsi,Gabbard,Ipsos,2019-12-05,0
+Democratic,Julian,Castro,Ipsos,2019-12-05,1
+Democratic,Tom,Steyer,Ipsos,2019-12-05,1
